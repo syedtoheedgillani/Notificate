@@ -25,4 +25,4 @@ Blocks
 
 **Usage:**
 
-Implementing the Notificate plugin into your Moodle instance is straightforward. Consult the provided documentation for installation and configuration instructions. Customize notification intervals and thresholds to align with your institution's policies and student needs.
+Implementing the Notificate plugin into your Moodle instance is straightforward. To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). Customize notification intervals and thresholds to align with your institution's policies and student needs.
